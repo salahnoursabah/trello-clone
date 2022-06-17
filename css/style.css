@@ -1,0 +1,69 @@
+li a {
+    position: relative;
+    right: 10px;
+}
+
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+input {
+    width: 60%;
+}
+
+.col-7 {
+    position: relative;
+    top: 98px;
+}
+
+.text {
+    position: relative;
+    left: 12%;
+}
+
+.sec1 {
+    background-color: #E6FCFF;
+}
+
+.sec2 {
+    background: linear-gradient(134deg, rgb(106, 152, 240) 10%, rgb(12, 45, 209) 90%);
+    height: 239px;
+}
+
+.IB {
+    position: relative;
+    top: 70px;
+}
+
+.Text {
+    position: relative;
+    left: 120px;
+    top: 40px;
+}
+
+.UL {
+    display: inline-block;
+    padding: 8px;
+    text-align: center;
+}
+
+.atta {
+    position: relative;
+    left: 40%;
+}
+
+header {
+    position: static;
+}
+
+.btn3 {
+    height: 65px;
+    width: 180px;
+    border-radius: 8px;
+    border: 0;
+}
+
+.icon {
+    position: relative;
+    left: 350px;
+}

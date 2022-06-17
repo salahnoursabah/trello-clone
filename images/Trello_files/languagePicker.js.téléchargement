@@ -1,0 +1,1 @@
+!function(e){var o=(cookie.get("lang")||window.locale||"").replace("_","-");!window.isHreflangPath&&window.prefLocale&&(o=window.prefLocale),e("#language-picker option[value="+o+"]").prop("selected",!0),e("#language-picker").on("change",(function(){var o=e(this).find("option:selected");o.data("url")!==window.location.href&&(window.location.href=o.data("url"))}))}($);
